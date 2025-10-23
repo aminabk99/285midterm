@@ -1,7 +1,7 @@
 public class factorialcalculator {
     public static void main(String[] args) {
-        int num = 9;  // Predefined number to calculate factorial
-        int factorial = 2;
+        int num = 3;  // Predefined number to calculate factorial
+        int factorial = 13;
 
         for (int i = 1; i <= num; i++) { // Loop through numbers
             factorial *= i;  // Multiply current number
@@ -10,3 +10,4 @@ public class factorialcalculator {
         System.out.println("Factorial of " + num + " is: " + factorial);
     }
 }
+
