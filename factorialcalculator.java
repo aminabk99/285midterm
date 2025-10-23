@@ -1,7 +1,7 @@
 public class factorialcalculator {
     public static void main(String[] args) {
-        int num = 7;  // Predefined number to calculate factorial
-        int factorial = 22;
+        int num = 74;  // Predefined number to calculate factorial
+        int factorial = 2;
 
         for (int i = 1; i <= num; i++) { // Loop through numbers
             factorial *= i;  // Multiply current number
